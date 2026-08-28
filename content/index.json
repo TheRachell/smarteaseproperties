@@ -1,0 +1,22 @@
+{
+  "hero_eyebrow": "Premium Real Estate · Lagos, Nigeria",
+  "hero_heading_line1": "Smart choices.",
+  "hero_heading_em": "Easy",
+  "hero_heading_line2": "living.",
+  "hero_statement": "SmartEase Properties develops, sells, leases and manages premium residential units in Lagos, building the asset, then turning it into income.",
+  "hero_image": "/images/home-hero.jpeg",
+  "hero_stats": [
+    {
+      "label": "Own outright from",
+      "value": "₦46,000,000"
+    },
+    {
+      "label": "Ownership",
+      "value": "100% yours"
+    },
+    {
+      "label": "Deposit",
+      "value": "50% down"
+    }
+  ]
+}

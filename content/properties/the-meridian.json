@@ -1,0 +1,8 @@
+{
+  "title": "The Meridian",
+  "intro": "Luxury studio and one-bedroom apartments for lease in Akoka, Yaba. Minutes from UNILAG, YabaTech and the Third Mainland Bridge, on a 17-year lease.",
+  "pricing": [
+    { "title": "Studio Apartment", "price": "14,000,000" },
+    { "title": "1-Bedroom Apartment", "price": "24,000,000" }
+  ]
+}
