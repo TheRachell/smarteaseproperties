@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/properties/apartments-for-sale.html",
+      "destination": "/invest/investment-opportunities.html",
+      "permanent": true
+    },
+    {
+      "source": "/properties/apartments-for-sale",
+      "destination": "/invest/investment-opportunities.html",
+      "permanent": true
+    }
+  ]
+}
