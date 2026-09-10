@@ -13,9 +13,9 @@
 
 backend:
   name: github
-  repo: TheRachell/smart-ease-properties  # ← change this to your actual GitHub repo
+  repo: TheRachell/smarteaseproperties  # ← change this to your actual GitHub repo
   branch: main
-  base_url: https://smart-ease-properties.vercel.app/  # ← change this to your actual Vercel URL
+  base_url: https://smarteaseproperties.vercel.app/  # ← change this to your actual Vercel URL
   auth_endpoint: api/auth
 
 publish_mode: simple
